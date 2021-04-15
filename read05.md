@@ -10,8 +10,10 @@
 8.  **less than or equal to (<=>)**
 # structuring comparision operators
  * **in any condition there is usually one operators and two oprends**
- #  logical operators in javascript
-  * compression operators usually return single valus of true or false
+
+ # logical operators in javascript
+
+* compression operators usually return single valus of true or false
 * logical AND(&&)
 * logical OR (||)**
 * logical NOT (!)**
