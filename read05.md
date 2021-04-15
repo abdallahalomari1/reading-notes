@@ -11,10 +11,9 @@
 # structuring comparision operators
  * **in any condition there is usually one operators and two oprends**
  #  logical operators in javascript
-   ** compression operators usually return single valus of true or false**
-   1. **logical AND(&&)**
-     
-   2. **logical OR (||)**
-   3. **logical NOT (!)**
+  **compression operators usually return single valus of true or false**
+  1. **logical AND(&&)**
+  2. **logical OR (||)**
+  3. **logical NOT (!)**
 
  
