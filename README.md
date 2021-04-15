@@ -17,6 +17,7 @@ my names abdallah alomari i have bachores degree in civil engineering from yarmo
 |2|[read02](read02)|
 |3|[read03](read03)|
 |4|[read04](read04)|
+|5|[read05](read05)|
 
 1. fixced mind set
 2. growth mindset
