@@ -22,8 +22,11 @@
 # type of loops
 1. for loops
   *  loops through a block of code a number of times
+  ![GitHub Logo](https://media.geeksforgeeks.org/wp-content/uploads/20191108131134/For-Loop.jpg)
+
 2. while loops
  * The while loop loops through a block of code as long as a specified condition is true
+ ![GitHub](https://media.geeksforgeeks.org/wp-content/uploads/20191118164726/While-Loop-GeeksforGeeks.jpg)
  
  # syntax 
  1. for loop
